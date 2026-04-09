@@ -9,7 +9,6 @@ A collection of custom Claude Code skills for marketing automation, social engag
 | **reddit-trend-hunter** | Finds relevant Reddit posts for Arrays.org engagement using Apify scraping + Notion tracking |
 | **linkedin-engagement** | LinkedIn thought leader engagement via Claude in Chrome browser automation |
 | **arrays-image-style** | Generate images and visuals in the Arrays.org brand style using Python + Pillow |
-| **job-hunter** | Personal job hunting agent — finds openings, drafts cover letters, selects CVs |
 | **weekly-reddit-scouting** | Scheduled task for weekly Reddit scouting for Arrays.org |
 
 ## Structure
